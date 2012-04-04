@@ -1,0 +1,10 @@
+This was my final project for my Computer Simulations of Complex Physical Systems class. I chose to model ant 
+colony activity to help understand how simple creatures, ants, are able to create complex colonies that thrive and 
+adapt surprisingly well considering the intelligence of ants. 
+
+The notebook in this repo has a lot of text describing the project and how I set up the ant colony rules. All of
+the actual code is located in the appendices of the notebook.
+
+The code for this project was largely adapted from the work in "Modeling Nature: Cellular Automata Simulations with 
+Mathematica" written by Richard J. Gaylord and Kazume Nishidate. Their code really provided the background for my
+simulation!
